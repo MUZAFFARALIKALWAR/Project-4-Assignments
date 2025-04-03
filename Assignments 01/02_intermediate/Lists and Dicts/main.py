@@ -15,6 +15,8 @@ def main():
     
 main()
 
+
+# Problem #2: Index Game
 def acces_element(lst:list,index:int):
     if 0 <= index < len(lst):
         return lst[index]
